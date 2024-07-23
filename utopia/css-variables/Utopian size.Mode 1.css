@@ -1,0 +1,20 @@
+:root {
+  --@min-min-size-3xs: 5;
+  --@max-max-size-3xs: 6;
+  --@min-min-size-2xs: 9;
+  --@max-max-size-2xs: 11;
+  --@min-min-size-xs: 14;
+  --@max-max-size-xs: 17;
+  --@min-min-size-s: 18;
+  --@max-max-size-s: 22;
+  --@min-min-size-m: 27;
+  --@max-max-size-m: 33;
+  --@min-min-size-l: 36;
+  --@max-max-size-l: 44;
+  --@min-min-size-xl: 54;
+  --@max-max-size-xl: 66;
+  --@min-min-size-2xl: 72;
+  --@max-max-size-2xl: 88;
+  --@min-min-size-3xl: 108;
+  --@max-max-size-3xl: 132;
+}

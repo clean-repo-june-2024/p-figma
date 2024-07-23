@@ -1,0 +1,128 @@
+{
+  "max-space-3xs": {
+    "$type": "number",
+    "$value": "{@max.max-size-3xs}",
+    "$extensions": {
+      "figma": {
+        "scopes": [
+          "ALL_SCOPES"
+        ],
+        "codeSyntax": {},
+        "hiddenFromPublishing": false,
+        "referenceKey": "a00568f6f677bde80d43aef06bef0dfb0f30e6b9"
+      }
+    }
+  },
+  "max-space-2xs": {
+    "$type": "number",
+    "$value": "{@max.max-size-2xs}",
+    "$extensions": {
+      "figma": {
+        "scopes": [
+          "ALL_SCOPES"
+        ],
+        "codeSyntax": {},
+        "hiddenFromPublishing": false,
+        "referenceKey": "65e8e946d59f63aec04d12670f8b7f487a51bb38"
+      }
+    }
+  },
+  "max-space-xs": {
+    "$type": "number",
+    "$value": "{@max.max-size-xs}",
+    "$extensions": {
+      "figma": {
+        "scopes": [
+          "ALL_SCOPES"
+        ],
+        "codeSyntax": {},
+        "hiddenFromPublishing": false,
+        "referenceKey": "ed3ae96247847b17f44da5b136bd2d8413dc23ba"
+      }
+    }
+  },
+  "max-space-s": {
+    "$type": "number",
+    "$value": "{@max.max-size-s}",
+    "$extensions": {
+      "figma": {
+        "scopes": [
+          "ALL_SCOPES"
+        ],
+        "codeSyntax": {},
+        "hiddenFromPublishing": false,
+        "referenceKey": "cceffe33b1a1709407e4c4177967c686aeb39dbb"
+      }
+    }
+  },
+  "max-space-m": {
+    "$type": "number",
+    "$value": "{@max.max-size-m}",
+    "$extensions": {
+      "figma": {
+        "scopes": [
+          "ALL_SCOPES"
+        ],
+        "codeSyntax": {},
+        "hiddenFromPublishing": false,
+        "referenceKey": "7538904bd9e401aaad2c63d76130766f8f683834"
+      }
+    }
+  },
+  "max-space-l": {
+    "$type": "number",
+    "$value": "{@max.max-size-l}",
+    "$extensions": {
+      "figma": {
+        "scopes": [
+          "ALL_SCOPES"
+        ],
+        "codeSyntax": {},
+        "hiddenFromPublishing": false,
+        "referenceKey": "c7ff76914bccd546d4b3ca5bdb2c49bf0c763b8d"
+      }
+    }
+  },
+  "max-space-xl": {
+    "$type": "number",
+    "$value": "{@max.max-size-xl}",
+    "$extensions": {
+      "figma": {
+        "scopes": [
+          "ALL_SCOPES"
+        ],
+        "codeSyntax": {},
+        "hiddenFromPublishing": false,
+        "referenceKey": "39c6f776940e29ec4dedc6eff1be1ca6c7da5189"
+      }
+    }
+  },
+  "max-space-2xl": {
+    "$type": "number",
+    "$value": "{@max.max-size-2xl}",
+    "$extensions": {
+      "figma": {
+        "scopes": [
+          "ALL_SCOPES"
+        ],
+        "codeSyntax": {},
+        "hiddenFromPublishing": false,
+        "referenceKey": "f7fe3708f649ee1ca5b0c13c646d2ac540a66f61"
+      }
+    }
+  },
+  "max-space-3xl": {
+    "$type": "number",
+    "$value": "{@max.max-size-3xl}",
+    "$extensions": {
+      "figma": {
+        "scopes": [
+          "ALL_SCOPES"
+        ],
+        "codeSyntax": {},
+        "hiddenFromPublishing": false,
+        "referenceKey": "8a3605cad531e6359314b4120a8efed55bd1aa16"
+      }
+    }
+  }
+}

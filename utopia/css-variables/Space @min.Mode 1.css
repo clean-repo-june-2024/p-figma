@@ -1,0 +1,11 @@
+:root {
+  --min-space-3xs: var(--@min-min-size-3xs);
+  --min-space-2xs: var(--@min-min-size-2xs);
+  --min-space-xs: var(--@min-min-size-xs);
+  --min-space-s: var(--@min-min-size-s);
+  --min-space-m: var(--@min-min-size-m);
+  --min-space-l: var(--@min-min-size-l);
+  --min-space-xl: var(--@min-min-size-xl);
+  --min-space-2xl: var(--@min-min-size-2xl);
+  --min-space-3xl: var(--@min-min-size-3xl);
+}

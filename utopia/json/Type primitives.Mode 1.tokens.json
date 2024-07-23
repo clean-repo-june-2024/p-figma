@@ -1,0 +1,238 @@
+{
+  "Font size @min": {
+    "Step 5": {
+      "$type": "number",
+      "$value": 39.8130989074707,
+      "$extensions": {
+        "figma": {
+          "scopes": [],
+          "codeSyntax": {},
+          "hiddenFromPublishing": true
+        }
+      }
+    },
+    "Step 4": {
+      "$type": "number",
+      "$value": 33.1776008605957,
+      "$extensions": {
+        "figma": {
+          "scopes": [],
+          "codeSyntax": {},
+          "hiddenFromPublishing": true
+        }
+      }
+    },
+    "Step 3": {
+      "$type": "number",
+      "$value": 27.648000717163086,
+      "$extensions": {
+        "figma": {
+          "scopes": [],
+          "codeSyntax": {},
+          "hiddenFromPublishing": true
+        }
+      }
+    },
+    "Step 2": {
+      "$type": "number",
+      "$value": 23.040000915527344,
+      "$extensions": {
+        "figma": {
+          "scopes": [],
+          "codeSyntax": {},
+          "hiddenFromPublishing": true
+        }
+      }
+    },
+    "Step 1": {
+      "$type": "number",
+      "$value": 19.200000762939453,
+      "$extensions": {
+        "figma": {
+          "scopes": [],
+          "codeSyntax": {},
+          "hiddenFromPublishing": true
+        }
+      }
+    },
+    "Step 0": {
+      "$type": "number",
+      "$value": 16,
+      "$extensions": {
+        "figma": {
+          "scopes": [],
+          "codeSyntax": {},
+          "hiddenFromPublishing": true
+        }
+      }
+    },
+    "Step -1": {
+      "$type": "number",
+      "$value": 13.33329963684082,
+      "$extensions": {
+        "figma": {
+          "scopes": [],
+          "codeSyntax": {},
+          "hiddenFromPublishing": true
+        }
+      }
+    },
+    "Step -2": {
+      "$type": "number",
+      "$value": 11.111100196838379,
+      "$extensions": {
+        "figma": {
+          "scopes": [],
+          "codeSyntax": {},
+          "hiddenFromPublishing": true
+        }
+      }
+    }
+  },
+  "Font size @max": {
+    "Step 5": {
+      "$type": "number",
+      "$value": 73.24220275878906,
+      "$extensions": {
+        "figma": {
+          "scopes": [],
+          "codeSyntax": {},
+          "hiddenFromPublishing": true
+        }
+      }
+    },
+    "Step 4": {
+      "$type": "number",
+      "$value": 58.59379959106445,
+      "$extensions": {
+        "figma": {
+          "scopes": [],
+          "codeSyntax": {},
+          "hiddenFromPublishing": true
+        }
+      }
+    },
+    "Step 3": {
+      "$type": "number",
+      "$value": 46.875,
+      "$extensions": {
+        "figma": {
+          "scopes": [],
+          "codeSyntax": {},
+          "hiddenFromPublishing": true
+        }
+      }
+    },
+    "Step 2": {
+      "$type": "number",
+      "$value": 37.5,
+      "$extensions": {
+        "figma": {
+          "scopes": [],
+          "codeSyntax": {},
+          "hiddenFromPublishing": true
+        }
+      }
+    },
+    "Step 1": {
+      "$type": "number",
+      "$value": 30,
+      "$extensions": {
+        "figma": {
+          "scopes": [],
+          "codeSyntax": {},
+          "hiddenFromPublishing": true
+        }
+      }
+    },
+    "Step 0": {
+      "$type": "number",
+      "$value": 24,
+      "$extensions": {
+        "figma": {
+          "scopes": [],
+          "codeSyntax": {},
+          "hiddenFromPublishing": true
+        }
+      }
+    },
+    "Step -1": {
+      "$type": "number",
+      "$value": 19.200000762939453,
+      "$extensions": {
+        "figma": {
+          "scopes": [],
+          "codeSyntax": {},
+          "hiddenFromPublishing": true
+        }
+      }
+    },
+    "Step -2": {
+      "$type": "number",
+      "$value": 15.359999656677246,
+      "$extensions": {
+        "figma": {
+          "scopes": [],
+          "codeSyntax": {},
+          "hiddenFromPublishing": true
+        }
+      }
+    }
+  },
+  "Font family": {
+    "Body": {
+      "$type": "text",
+      "$value": "Inter",
+      "$extensions": {
+        "figma": {
+          "scopes": [
+            "ALL_SCOPES"
+          ],
+          "codeSyntax": {},
+          "hiddenFromPublishing": false
+        }
+      }
+    },
+    "Heading": {
+      "$type": "text",
+      "$value": "Inter",
+      "$extensions": {
+        "figma": {
+          "scopes": [
+            "ALL_SCOPES"
+          ],
+          "codeSyntax": {},
+          "hiddenFromPublishing": false
+        }
+      }
+    }
+  },
+  "Font weight": {
+    "Regular": {
+      "$type": "text",
+      "$value": "Regular",
+      "$extensions": {
+        "figma": {
+          "scopes": [
+            "ALL_SCOPES"
+          ],
+          "codeSyntax": {},
+          "hiddenFromPublishing": false
+        }
+      }
+    },
+    "Bold": {
+      "$type": "text",
+      "$value": "Bold",
+      "$extensions": {
+        "figma": {
+          "scopes": [
+            "ALL_SCOPES"
+          ],
+          "codeSyntax": {},
+          "hiddenFromPublishing": false
+        }
+      }
+    }
+  }
+}

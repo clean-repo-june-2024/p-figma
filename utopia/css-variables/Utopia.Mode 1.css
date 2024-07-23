@@ -1,0 +1,23 @@
+:root {
+  --viewport-min-width: 320;
+  --viewport-max-width: 1024;
+  --type-active: false;
+  --type-min-size: 16;
+  --type-max-size: 24;
+  --type-min-scale: 1.2;
+  --type-max-scale: 1.25;
+  --type-positive-steps: 5;
+  --type-negative-steps: 2;
+  --space-active: true;
+  --space-min-size: 16;
+  --space-max-size: 24;
+  --space-positive-spaces: 1.5, 2, 3, 4, 6, 7, 8, 9, 10;
+  --space-negative-spaces: 0.75, 0.5, 0.25, 0.15, 0.1;
+  --space-custom-spaces: S-L;
+  --grid-active: true;
+  --grid-columns: 12;
+  --grid-max-column: 2XL;
+  --grid-min-gutter: S;
+  --grid-max-gutter: L;
+  --grid-rounding: Nearest;
+}

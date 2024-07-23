@@ -1,0 +1,11 @@
+:root {
+  --max-space-3xs: var(--@max-max-size-3xs);
+  --max-space-2xs: var(--@max-max-size-2xs);
+  --max-space-xs: var(--@max-max-size-xs);
+  --max-space-s: var(--@max-max-size-s);
+  --max-space-m: var(--@max-max-size-m);
+  --max-space-l: var(--@max-max-size-l);
+  --max-space-xl: var(--@max-max-size-xl);
+  --max-space-2xl: var(--@max-max-size-2xl);
+  --max-space-3xl: var(--@max-max-size-3xl);
+}

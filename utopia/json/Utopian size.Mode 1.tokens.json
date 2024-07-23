@@ -1,0 +1,240 @@
+{
+  "@min": {
+    "min-size-3xs": {
+      "$type": "number",
+      "$value": 5,
+      "$extensions": {
+        "figma": {
+          "scopes": [
+            "ALL_SCOPES"
+          ],
+          "codeSyntax": {},
+          "hiddenFromPublishing": false
+        }
+      }
+    },
+    "min-size-2xs": {
+      "$type": "number",
+      "$value": 9,
+      "$extensions": {
+        "figma": {
+          "scopes": [
+            "ALL_SCOPES"
+          ],
+          "codeSyntax": {},
+          "hiddenFromPublishing": false
+        }
+      }
+    },
+    "min-size-xs": {
+      "$type": "number",
+      "$value": 14,
+      "$extensions": {
+        "figma": {
+          "scopes": [
+            "ALL_SCOPES"
+          ],
+          "codeSyntax": {},
+          "hiddenFromPublishing": false
+        }
+      }
+    },
+    "min-size-s": {
+      "$type": "number",
+      "$value": 18,
+      "$extensions": {
+        "figma": {
+          "scopes": [
+            "ALL_SCOPES"
+          ],
+          "codeSyntax": {},
+          "hiddenFromPublishing": false
+        }
+      }
+    },
+    "min-size-m": {
+      "$type": "number",
+      "$value": 27,
+      "$extensions": {
+        "figma": {
+          "scopes": [
+            "ALL_SCOPES"
+          ],
+          "codeSyntax": {},
+          "hiddenFromPublishing": false
+        }
+      }
+    },
+    "min-size-l": {
+      "$type": "number",
+      "$value": 36,
+      "$extensions": {
+        "figma": {
+          "scopes": [
+            "ALL_SCOPES"
+          ],
+          "codeSyntax": {},
+          "hiddenFromPublishing": false
+        }
+      }
+    },
+    "min-size-xl": {
+      "$type": "number",
+      "$value": 54,
+      "$extensions": {
+        "figma": {
+          "scopes": [
+            "ALL_SCOPES"
+          ],
+          "codeSyntax": {},
+          "hiddenFromPublishing": false
+        }
+      }
+    },
+    "min-size-2xl": {
+      "$type": "number",
+      "$value": 72,
+      "$extensions": {
+        "figma": {
+          "scopes": [
+            "ALL_SCOPES"
+          ],
+          "codeSyntax": {},
+          "hiddenFromPublishing": false
+        }
+      }
+    },
+    "min-size-3xl": {
+      "$type": "number",
+      "$value": 108,
+      "$extensions": {
+        "figma": {
+          "scopes": [
+            "ALL_SCOPES"
+          ],
+          "codeSyntax": {},
+          "hiddenFromPublishing": false
+        }
+      }
+    }
+  },
+  "@max": {
+    "max-size-3xs": {
+      "$type": "number",
+      "$value": 6,
+      "$extensions": {
+        "figma": {
+          "scopes": [
+            "ALL_SCOPES"
+          ],
+          "codeSyntax": {},
+          "hiddenFromPublishing": false
+        }
+      }
+    },
+    "max-size-2xs": {
+      "$type": "number",
+      "$value": 11,
+      "$extensions": {
+        "figma": {
+          "scopes": [
+            "ALL_SCOPES"
+          ],
+          "codeSyntax": {},
+          "hiddenFromPublishing": false
+        }
+      }
+    },
+    "max-size-xs": {
+      "$type": "number",
+      "$value": 17,
+      "$extensions": {
+        "figma": {
+          "scopes": [
+            "ALL_SCOPES"
+          ],
+          "codeSyntax": {},
+          "hiddenFromPublishing": false
+        }
+      }
+    },
+    "max-size-s": {
+      "$type": "number",
+      "$value": 22,
+      "$extensions": {
+        "figma": {
+          "scopes": [
+            "ALL_SCOPES"
+          ],
+          "codeSyntax": {},
+          "hiddenFromPublishing": false
+        }
+      }
+    },
+    "max-size-m": {
+      "$type": "number",
+      "$value": 33,
+      "$extensions": {
+        "figma": {
+          "scopes": [
+            "ALL_SCOPES"
+          ],
+          "codeSyntax": {},
+          "hiddenFromPublishing": false
+        }
+      }
+    },
+    "max-size-l": {
+      "$type": "number",
+      "$value": 44,
+      "$extensions": {
+        "figma": {
+          "scopes": [
+            "ALL_SCOPES"
+          ],
+          "codeSyntax": {},
+          "hiddenFromPublishing": false
+        }
+      }
+    },
+    "max-size-xl": {
+      "$type": "number",
+      "$value": 66,
+      "$extensions": {
+        "figma": {
+          "scopes": [
+            "ALL_SCOPES"
+          ],
+          "codeSyntax": {},
+          "hiddenFromPublishing": false
+        }
+      }
+    },
+    "max-size-2xl": {
+      "$type": "number",
+      "$value": 88,
+      "$extensions": {
+        "figma": {
+          "scopes": [
+            "ALL_SCOPES"
+          ],
+          "codeSyntax": {},
+          "hiddenFromPublishing": false
+        }
+      }
+    },
+    "max-size-3xl": {
+      "$type": "number",
+      "$value": 132,
+      "$extensions": {
+        "figma": {
+          "scopes": [
+            "ALL_SCOPES"
+          ],
+          "codeSyntax": {},
+          "hiddenFromPublishing": false
+        }
+      }
+    }
+  }
+}

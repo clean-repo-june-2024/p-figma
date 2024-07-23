@@ -1,0 +1,816 @@
+{
+  "Space size": {
+    "3XS": {
+      "$type": "number",
+      "$value": "{Space @min.3XS}",
+      "$extensions": {
+        "figma": {
+          "scopes": [
+            "ALL_SCOPES"
+          ],
+          "codeSyntax": {
+            "WEB": "space-3xs"
+          },
+          "hiddenFromPublishing": false,
+          "referenceKey": "1c05dab6ed534d4ad42d23431e0b42467fcdc61f"
+        }
+      }
+    },
+    "2XS": {
+      "$type": "number",
+      "$value": "{Space @min.2XS}",
+      "$extensions": {
+        "figma": {
+          "scopes": [
+            "ALL_SCOPES"
+          ],
+          "codeSyntax": {
+            "WEB": "space-2xs"
+          },
+          "hiddenFromPublishing": false,
+          "referenceKey": "d54a6ea274ba0f707f99947fc7d3235300611f36"
+        }
+      }
+    },
+    "XS": {
+      "$type": "number",
+      "$value": "{Space @min.XS}",
+      "$extensions": {
+        "figma": {
+          "scopes": [
+            "ALL_SCOPES"
+          ],
+          "codeSyntax": {
+            "WEB": "space-xs"
+          },
+          "hiddenFromPublishing": false,
+          "referenceKey": "68787b05b44d0144635af101a34b69c139fc5c24"
+        }
+      }
+    },
+    "S": {
+      "$type": "number",
+      "$value": "{Space @min.S}",
+      "$extensions": {
+        "figma": {
+          "scopes": [
+            "ALL_SCOPES"
+          ],
+          "codeSyntax": {
+            "WEB": "space-s"
+          },
+          "hiddenFromPublishing": false,
+          "referenceKey": "d690f07cfac2d44e3f843b1a7a5236fdbdca9295"
+        }
+      }
+    },
+    "M": {
+      "$type": "number",
+      "$value": "{Space @min.M}",
+      "$extensions": {
+        "figma": {
+          "scopes": [
+            "ALL_SCOPES"
+          ],
+          "codeSyntax": {
+            "WEB": "space-m"
+          },
+          "hiddenFromPublishing": false,
+          "referenceKey": "c61d7e299d71f5c554a7bb4717458f072b4a1bba"
+        }
+      }
+    },
+    "L": {
+      "$type": "number",
+      "$value": "{Space @min.L}",
+      "$extensions": {
+        "figma": {
+          "scopes": [
+            "ALL_SCOPES"
+          ],
+          "codeSyntax": {
+            "WEB": "space-l"
+          },
+          "hiddenFromPublishing": false,
+          "referenceKey": "12798d8eabadd8b4f8ad2563e3aa92b26d0f38f1"
+        }
+      }
+    },
+    "XL": {
+      "$type": "number",
+      "$value": "{Space @min.XL}",
+      "$extensions": {
+        "figma": {
+          "scopes": [
+            "ALL_SCOPES"
+          ],
+          "codeSyntax": {
+            "WEB": "space-xl"
+          },
+          "hiddenFromPublishing": false,
+          "referenceKey": "a016114e4351cf97191317fcb6db654be076374f"
+        }
+      }
+    },
+    "2XL": {
+      "$type": "number",
+      "$value": "{Space @min.2XL}",
+      "$extensions": {
+        "figma": {
+          "scopes": [
+            "ALL_SCOPES"
+          ],
+          "codeSyntax": {
+            "WEB": "space-2xl"
+          },
+          "hiddenFromPublishing": false,
+          "referenceKey": "eaf9f8350b6e68b9643c5ed1c082fe9336dc2ffd"
+        }
+      }
+    },
+    "3XL": {
+      "$type": "number",
+      "$value": "{Space @min.3XL}",
+      "$extensions": {
+        "figma": {
+          "scopes": [
+            "ALL_SCOPES"
+          ],
+          "codeSyntax": {
+            "WEB": "space-3xl"
+          },
+          "hiddenFromPublishing": false,
+          "referenceKey": "37bbbb9ab58c4280751036e0c330941813a62b48"
+        }
+      }
+    },
+    "4XL": {
+      "$type": "number",
+      "$value": "{Space @min.4XL}",
+      "$extensions": {
+        "figma": {
+          "scopes": [
+            "ALL_SCOPES"
+          ],
+          "codeSyntax": {
+            "WEB": "space-4xl"
+          },
+          "hiddenFromPublishing": false,
+          "referenceKey": "2577502a8eccb84563b77ac3e070b41ea48d2d62"
+        }
+      }
+    },
+    "5XS": {
+      "$type": "number",
+      "$value": "{Space @min.5XS}",
+      "$extensions": {
+        "figma": {
+          "scopes": [
+            "ALL_SCOPES"
+          ],
+          "codeSyntax": {
+            "WEB": "space-5xs"
+          },
+          "hiddenFromPublishing": false,
+          "referenceKey": "7dedd302cf2cc77830f3752a8d364852377f710e"
+        }
+      }
+    },
+    "4XS": {
+      "$type": "number",
+      "$value": "{Space @min.4XS}",
+      "$extensions": {
+        "figma": {
+          "scopes": [
+            "ALL_SCOPES"
+          ],
+          "codeSyntax": {
+            "WEB": "space-4xs"
+          },
+          "hiddenFromPublishing": false,
+          "referenceKey": "d7a44f70d355ab5616546794154c0eeb748eef1d"
+        }
+      }
+    },
+    "5XL": {
+      "$type": "number",
+      "$value": "{Space @min.5XL}",
+      "$extensions": {
+        "figma": {
+          "scopes": [
+            "ALL_SCOPES"
+          ],
+          "codeSyntax": {
+            "WEB": "space-5xl"
+          },
+          "hiddenFromPublishing": false,
+          "referenceKey": "eeab8150d00234e616205e2018a4e769c7ddd8a0"
+        }
+      }
+    },
+    "6XL": {
+      "$type": "number",
+      "$value": "{Space @min.6XL}",
+      "$extensions": {
+        "figma": {
+          "scopes": [
+            "ALL_SCOPES"
+          ],
+          "codeSyntax": {
+            "WEB": "space-6xl"
+          },
+          "hiddenFromPublishing": false,
+          "referenceKey": "3e4a78c705ee5fea20e55407f1336783f8bbc223"
+        }
+      }
+    },
+    "7XL": {
+      "$type": "number",
+      "$value": "{Space @min.7XL}",
+      "$extensions": {
+        "figma": {
+          "scopes": [
+            "ALL_SCOPES"
+          ],
+          "codeSyntax": {
+            "WEB": "space-7xl"
+          },
+          "hiddenFromPublishing": false,
+          "referenceKey": "273accd43eef90887fef40d37b017be0491da529"
+        }
+      }
+    }
+  },
+  "Space size pairs": {
+    "3XS—2XS": {
+      "$type": "number",
+      "$value": "{Space size.3XS}",
+      "$extensions": {
+        "figma": {
+          "scopes": [
+            "ALL_SCOPES"
+          ],
+          "codeSyntax": {
+            "WEB": "space-3xs-2xs"
+          },
+          "hiddenFromPublishing": false,
+          "referenceKey": "3892d5a51f5393b4b030168220b7d3601b552df3"
+        }
+      }
+    },
+    "2XS—XS": {
+      "$type": "number",
+      "$value": "{Space size.2XS}",
+      "$extensions": {
+        "figma": {
+          "scopes": [
+            "ALL_SCOPES"
+          ],
+          "codeSyntax": {
+            "WEB": "space-2xs-xs"
+          },
+          "hiddenFromPublishing": false,
+          "referenceKey": "e8305650a5812c5e9c7b185eaa79817686d19604"
+        }
+      }
+    },
+    "XS—S": {
+      "$type": "number",
+      "$value": "{Space size.XS}",
+      "$extensions": {
+        "figma": {
+          "scopes": [
+            "ALL_SCOPES"
+          ],
+          "codeSyntax": {
+            "WEB": "space-xs-s"
+          },
+          "hiddenFromPublishing": false,
+          "referenceKey": "1680a6e7e8e3ec0f30d15761cbd74b986c51ad8f"
+        }
+      }
+    },
+    "S—M": {
+      "$type": "number",
+      "$value": "{Space size.S}",
+      "$extensions": {
+        "figma": {
+          "scopes": [
+            "ALL_SCOPES"
+          ],
+          "codeSyntax": {
+            "WEB": "space-s-m"
+          },
+          "hiddenFromPublishing": false,
+          "referenceKey": "40b840f9cab6f9b4e441fda74676fb42ea1ac641"
+        }
+      }
+    },
+    "M—L": {
+      "$type": "number",
+      "$value": "{Space size.M}",
+      "$extensions": {
+        "figma": {
+          "scopes": [
+            "ALL_SCOPES"
+          ],
+          "codeSyntax": {
+            "WEB": "space-m-l"
+          },
+          "hiddenFromPublishing": false,
+          "referenceKey": "208e04bf4ce1eda3bbdf1961ef822f43db7683c8"
+        }
+      }
+    },
+    "L—XL": {
+      "$type": "number",
+      "$value": "{Space size.L}",
+      "$extensions": {
+        "figma": {
+          "scopes": [
+            "ALL_SCOPES"
+          ],
+          "codeSyntax": {
+            "WEB": "space-l-xl"
+          },
+          "hiddenFromPublishing": false,
+          "referenceKey": "e39f9cceae3325add3cc76aca5c2c2b5e7ec5f2f"
+        }
+      }
+    },
+    "XL—2XL": {
+      "$type": "number",
+      "$value": "{Space size.XL}",
+      "$extensions": {
+        "figma": {
+          "scopes": [
+            "ALL_SCOPES"
+          ],
+          "codeSyntax": {
+            "WEB": "space-xl-2xl"
+          },
+          "hiddenFromPublishing": false,
+          "referenceKey": "98c74757439772ad16b6c2acecee2e70b75b930e"
+        }
+      }
+    },
+    "2XL—3XL": {
+      "$type": "number",
+      "$value": "{Space size.2XL}",
+      "$extensions": {
+        "figma": {
+          "scopes": [
+            "ALL_SCOPES"
+          ],
+          "codeSyntax": {
+            "WEB": "space-2xl-3xl"
+          },
+          "hiddenFromPublishing": false,
+          "referenceKey": "200f6fcab60059d9ba381c4d39c68cd5683e2a61"
+        }
+      }
+    },
+    "Custom pairs": {
+      "S—L": {
+        "$type": "number",
+        "$value": "{Space size.S}",
+        "$extensions": {
+          "figma": {
+            "scopes": [
+              "ALL_SCOPES"
+            ],
+            "codeSyntax": {
+              "WEB": "space-s-l"
+            },
+            "hiddenFromPublishing": false,
+            "referenceKey": "40b840f9cab6f9b4e441fda74676fb42ea1ac641"
+          }
+        }
+      }
+    },
+    "3XL—4XL": {
+      "$type": "number",
+      "$value": "{Space size.3XL}",
+      "$extensions": {
+        "figma": {
+          "scopes": [
+            "ALL_SCOPES"
+          ],
+          "codeSyntax": {
+            "WEB": "space-3xl-4xl"
+          },
+          "hiddenFromPublishing": false,
+          "referenceKey": "2895ab13313442d9dc97b49c336097639fd156e2"
+        }
+      }
+    },
+    "5XS—4XS": {
+      "$type": "number",
+      "$value": "{Space size.5XS}",
+      "$extensions": {
+        "figma": {
+          "scopes": [
+            "ALL_SCOPES"
+          ],
+          "codeSyntax": {
+            "WEB": "space-5xs-4xs"
+          },
+          "hiddenFromPublishing": false,
+          "referenceKey": "58dcb33c06b4f49e3b01cfb5c295f3a933ce820e"
+        }
+      }
+    },
+    "4XS—3XS": {
+      "$type": "number",
+      "$value": "{Space size.4XS}",
+      "$extensions": {
+        "figma": {
+          "scopes": [
+            "ALL_SCOPES"
+          ],
+          "codeSyntax": {
+            "WEB": "space-4xs-3xs"
+          },
+          "hiddenFromPublishing": false,
+          "referenceKey": "73e80fb480ef35580d0fbf313bc26c39faead5a0"
+        }
+      }
+    },
+    "4XL—5XL": {
+      "$type": "number",
+      "$value": "{Space size.4XL}",
+      "$extensions": {
+        "figma": {
+          "scopes": [
+            "ALL_SCOPES"
+          ],
+          "codeSyntax": {
+            "WEB": "space-4xl-5xl"
+          },
+          "hiddenFromPublishing": false,
+          "referenceKey": "b6ec68777dc9323804564c6c98f62b378f09f9dd"
+        }
+      }
+    },
+    "5XL—6XL": {
+      "$type": "number",
+      "$value": "{Space size.5XL}",
+      "$extensions": {
+        "figma": {
+          "scopes": [
+            "ALL_SCOPES"
+          ],
+          "codeSyntax": {
+            "WEB": "space-5xl-6xl"
+          },
+          "hiddenFromPublishing": false,
+          "referenceKey": "d5c8b7af25defac458cdc3232e57a2d899aa3093"
+        }
+      }
+    },
+    "6XL—7XL": {
+      "$type": "number",
+      "$value": "{Space size.6XL}",
+      "$extensions": {
+        "figma": {
+          "scopes": [
+            "ALL_SCOPES"
+          ],
+          "codeSyntax": {
+            "WEB": "space-6xl-7xl"
+          },
+          "hiddenFromPublishing": false,
+          "referenceKey": "bcc0caefb638a98a18e5de75e5d7051e9ed84992"
+        }
+      }
+    }
+  },
+  "Font size": {
+    "Step 5": {
+      "$type": "number",
+      "$value": "{Font size @min.Step 5}",
+      "$extensions": {
+        "figma": {
+          "scopes": [
+            "ALL_SCOPES"
+          ],
+          "codeSyntax": {
+            "WEB": "step-5"
+          },
+          "hiddenFromPublishing": false,
+          "referenceKey": "f5d8fa52ad637794f8e7d532947d7d30c421a508"
+        }
+      }
+    },
+    "Step 4": {
+      "$type": "number",
+      "$value": "{Font size @min.Step 4}",
+      "$extensions": {
+        "figma": {
+          "scopes": [
+            "ALL_SCOPES"
+          ],
+          "codeSyntax": {
+            "WEB": "step-4"
+          },
+          "hiddenFromPublishing": false,
+          "referenceKey": "4f47fb7ef73953ea987030be816797bf5143ba30"
+        }
+      }
+    },
+    "Step 3": {
+      "$type": "number",
+      "$value": "{Font size @min.Step 3}",
+      "$extensions": {
+        "figma": {
+          "scopes": [
+            "ALL_SCOPES"
+          ],
+          "codeSyntax": {
+            "WEB": "step-3"
+          },
+          "hiddenFromPublishing": false,
+          "referenceKey": "d965f33468722870729ec91bb08088a0f63562f3"
+        }
+      }
+    },
+    "Step 2": {
+      "$type": "number",
+      "$value": "{Font size @min.Step 2}",
+      "$extensions": {
+        "figma": {
+          "scopes": [
+            "ALL_SCOPES"
+          ],
+          "codeSyntax": {
+            "WEB": "step-2"
+          },
+          "hiddenFromPublishing": false,
+          "referenceKey": "7c8fb4859faa67a44f0d99ef7547756601164415"
+        }
+      }
+    },
+    "Step 1": {
+      "$type": "number",
+      "$value": "{Font size @min.Step 1}",
+      "$extensions": {
+        "figma": {
+          "scopes": [
+            "ALL_SCOPES"
+          ],
+          "codeSyntax": {
+            "WEB": "step-1"
+          },
+          "hiddenFromPublishing": false,
+          "referenceKey": "02607cf05d9ffac5305a491f2b759ee7232d7f04"
+        }
+      }
+    },
+    "Step 0": {
+      "$type": "number",
+      "$value": "{Font size @min.Step 0}",
+      "$extensions": {
+        "figma": {
+          "scopes": [
+            "ALL_SCOPES"
+          ],
+          "codeSyntax": {
+            "WEB": "step-0"
+          },
+          "hiddenFromPublishing": false,
+          "referenceKey": "d4664bdb16c9ba9f951079c7ff0d25136d577497"
+        }
+      }
+    },
+    "Step -1": {
+      "$type": "number",
+      "$value": "{Font size @min.Step -1}",
+      "$extensions": {
+        "figma": {
+          "scopes": [
+            "ALL_SCOPES"
+          ],
+          "codeSyntax": {
+            "WEB": "step--1"
+          },
+          "hiddenFromPublishing": false,
+          "referenceKey": "a39a70336f0a1c394b8f36276895accb32410512"
+        }
+      }
+    },
+    "Step -2": {
+      "$type": "number",
+      "$value": "{Font size @min.Step -2}",
+      "$extensions": {
+        "figma": {
+          "scopes": [
+            "ALL_SCOPES"
+          ],
+          "codeSyntax": {
+            "WEB": "step--2"
+          },
+          "hiddenFromPublishing": false,
+          "referenceKey": "3a3067bd1f352b4cd752ec08a73ab7a478aa7b10"
+        }
+      }
+    }
+  },
+  "Grid": {
+    "Gutter": {
+      "$type": "number",
+      "$value": "{Space @min.S}",
+      "$extensions": {
+        "figma": {
+          "scopes": [
+            "ALL_SCOPES"
+          ],
+          "codeSyntax": {},
+          "hiddenFromPublishing": false,
+          "referenceKey": "d690f07cfac2d44e3f843b1a7a5236fdbdca9295"
+        }
+      }
+    },
+    "Column": {
+      "$type": "number",
+      "$value": "{Grid.Column @min}",
+      "$extensions": {
+        "figma": {
+          "scopes": [
+            "ALL_SCOPES"
+          ],
+          "codeSyntax": {},
+          "hiddenFromPublishing": false,
+          "referenceKey": "91660fbfe9f4f6a403134c18e5f8443003c1e42d"
+        }
+      }
+    },
+    "Viewport": {
+      "$type": "number",
+      "$value": "{Grid @min.Viewport}",
+      "$extensions": {
+        "figma": {
+          "scopes": [
+            "ALL_SCOPES"
+          ],
+          "codeSyntax": {},
+          "hiddenFromPublishing": false,
+          "referenceKey": "6e2ce1cdaeaba54983d7ae779e413b9691e3a715"
+        }
+      }
+    },
+    "Whole": {
+      "$type": "number",
+      "$value": "{Grid @min.Whole}",
+      "$extensions": {
+        "figma": {
+          "scopes": [
+            "ALL_SCOPES"
+          ],
+          "codeSyntax": {},
+          "hiddenFromPublishing": false,
+          "referenceKey": "dec5f1e2d3b80aa842a09d8f8c25b57ab0770cea"
+        }
+      }
+    },
+    "Three quarters": {
+      "$type": "number",
+      "$value": "{Grid @min.Three quarters}",
+      "$extensions": {
+        "figma": {
+          "scopes": [
+            "ALL_SCOPES"
+          ],
+          "codeSyntax": {},
+          "hiddenFromPublishing": false,
+          "referenceKey": "53cef01d7aca693a72257ccbd7864370d47d51b1"
+        }
+      }
+    },
+    "Whole—Three quarters": {
+      "$type": "number",
+      "$value": "{Grid @min.Whole}",
+      "$extensions": {
+        "figma": {
+          "scopes": [
+            "ALL_SCOPES"
+          ],
+          "codeSyntax": {},
+          "hiddenFromPublishing": false,
+          "referenceKey": "dec5f1e2d3b80aa842a09d8f8c25b57ab0770cea"
+        }
+      }
+    },
+    "Two thirds": {
+      "$type": "number",
+      "$value": "{Grid @min.Two thirds}",
+      "$extensions": {
+        "figma": {
+          "scopes": [
+            "ALL_SCOPES"
+          ],
+          "codeSyntax": {},
+          "hiddenFromPublishing": false,
+          "referenceKey": "559d8a08580d1ccc675e873c035fc8602399f4a5"
+        }
+      }
+    },
+    "Whole—Two thirds": {
+      "$type": "number",
+      "$value": "{Grid @min.Whole}",
+      "$extensions": {
+        "figma": {
+          "scopes": [
+            "ALL_SCOPES"
+          ],
+          "codeSyntax": {},
+          "hiddenFromPublishing": false,
+          "referenceKey": "dec5f1e2d3b80aa842a09d8f8c25b57ab0770cea"
+        }
+      }
+    },
+    "Half": {
+      "$type": "number",
+      "$value": "{Grid @min.Half}",
+      "$extensions": {
+        "figma": {
+          "scopes": [
+            "ALL_SCOPES"
+          ],
+          "codeSyntax": {},
+          "hiddenFromPublishing": false,
+          "referenceKey": "ebe3890855b9215655d4d4d4b94eedda5d59e245"
+        }
+      }
+    },
+    "Whole—Half": {
+      "$type": "number",
+      "$value": "{Grid @min.Whole}",
+      "$extensions": {
+        "figma": {
+          "scopes": [
+            "ALL_SCOPES"
+          ],
+          "codeSyntax": {},
+          "hiddenFromPublishing": false,
+          "referenceKey": "dec5f1e2d3b80aa842a09d8f8c25b57ab0770cea"
+        }
+      }
+    },
+    "Third": {
+      "$type": "number",
+      "$value": "{Grid @min.Third}",
+      "$extensions": {
+        "figma": {
+          "scopes": [
+            "ALL_SCOPES"
+          ],
+          "codeSyntax": {},
+          "hiddenFromPublishing": false,
+          "referenceKey": "4909f5a9160c616cdf84e21cdd2af7910704fecf"
+        }
+      }
+    },
+    "Whole—Third": {
+      "$type": "number",
+      "$value": "{Grid @min.Whole}",
+      "$extensions": {
+        "figma": {
+          "scopes": [
+            "ALL_SCOPES"
+          ],
+          "codeSyntax": {},
+          "hiddenFromPublishing": false,
+          "referenceKey": "dec5f1e2d3b80aa842a09d8f8c25b57ab0770cea"
+        }
+      }
+    },
+    "Quarter": {
+      "$type": "number",
+      "$value": "{Grid @min.Quarter}",
+      "$extensions": {
+        "figma": {
+          "scopes": [
+            "ALL_SCOPES"
+          ],
+          "codeSyntax": {},
+          "hiddenFromPublishing": false,
+          "referenceKey": "c704d5dc0826828dd125f031a457eac7a2392ff9"
+        }
+      }
+    },
+    "Whole—Quarter": {
+      "$type": "number",
+      "$value": "{Grid @min.Whole}",
+      "$extensions": {
+        "figma": {
+          "scopes": [
+            "ALL_SCOPES"
+          ],
+          "codeSyntax": {},
+          "hiddenFromPublishing": false,
+          "referenceKey": "dec5f1e2d3b80aa842a09d8f8c25b57ab0770cea"
+        }
+      }
+    }
+  }
+}

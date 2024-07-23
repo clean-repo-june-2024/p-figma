@@ -1,0 +1,247 @@
+{
+  "Viewport": {
+    "Min width": {
+      "$type": "text",
+      "$value": "320",
+      "$extensions": {
+        "figma": {
+          "scopes": [],
+          "codeSyntax": {},
+          "hiddenFromPublishing": true
+        }
+      }
+    },
+    "Max width": {
+      "$type": "text",
+      "$value": "1024",
+      "$extensions": {
+        "figma": {
+          "scopes": [],
+          "codeSyntax": {},
+          "hiddenFromPublishing": true
+        }
+      }
+    }
+  },
+  "Type": {
+    "Active": {
+      "$type": "boolean",
+      "$value": false,
+      "$extensions": {
+        "figma": {
+          "scopes": [
+            "ALL_SCOPES"
+          ],
+          "codeSyntax": {},
+          "hiddenFromPublishing": true
+        }
+      }
+    },
+    "Min size": {
+      "$type": "text",
+      "$value": "16",
+      "$extensions": {
+        "figma": {
+          "scopes": [],
+          "codeSyntax": {},
+          "hiddenFromPublishing": true
+        }
+      }
+    },
+    "Max size": {
+      "$type": "text",
+      "$value": "24",
+      "$extensions": {
+        "figma": {
+          "scopes": [],
+          "codeSyntax": {},
+          "hiddenFromPublishing": true
+        }
+      }
+    },
+    "Min scale": {
+      "$type": "text",
+      "$value": "1.2",
+      "$extensions": {
+        "figma": {
+          "scopes": [],
+          "codeSyntax": {},
+          "hiddenFromPublishing": true
+        }
+      }
+    },
+    "Max scale": {
+      "$type": "text",
+      "$value": "1.25",
+      "$extensions": {
+        "figma": {
+          "scopes": [],
+          "codeSyntax": {},
+          "hiddenFromPublishing": true
+        }
+      }
+    },
+    "Positive steps": {
+      "$type": "text",
+      "$value": "5",
+      "$extensions": {
+        "figma": {
+          "scopes": [],
+          "codeSyntax": {},
+          "hiddenFromPublishing": true
+        }
+      }
+    },
+    "Negative steps": {
+      "$type": "text",
+      "$value": "2",
+      "$extensions": {
+        "figma": {
+          "scopes": [],
+          "codeSyntax": {},
+          "hiddenFromPublishing": true
+        }
+      }
+    }
+  },
+  "Space": {
+    "Active": {
+      "$type": "boolean",
+      "$value": true,
+      "$extensions": {
+        "figma": {
+          "scopes": [
+            "ALL_SCOPES"
+          ],
+          "codeSyntax": {},
+          "hiddenFromPublishing": true
+        }
+      }
+    },
+    "Min size": {
+      "$type": "text",
+      "$value": "16",
+      "$extensions": {
+        "figma": {
+          "scopes": [],
+          "codeSyntax": {},
+          "hiddenFromPublishing": true
+        }
+      }
+    },
+    "Max size": {
+      "$type": "text",
+      "$value": "24",
+      "$extensions": {
+        "figma": {
+          "scopes": [],
+          "codeSyntax": {},
+          "hiddenFromPublishing": true
+        }
+      }
+    },
+    "Positive spaces": {
+      "$type": "text",
+      "$value": "1.5, 2, 3, 4, 6, 7, 8, 9, 10",
+      "$extensions": {
+        "figma": {
+          "scopes": [],
+          "codeSyntax": {},
+          "hiddenFromPublishing": true
+        }
+      }
+    },
+    "Negative spaces": {
+      "$type": "text",
+      "$value": "0.75, 0.5, 0.25, 0.15, 0.1",
+      "$extensions": {
+        "figma": {
+          "scopes": [],
+          "codeSyntax": {},
+          "hiddenFromPublishing": true
+        }
+      }
+    },
+    "Custom spaces": {
+      "$type": "text",
+      "$value": "S-L",
+      "$extensions": {
+        "figma": {
+          "scopes": [],
+          "codeSyntax": {},
+          "hiddenFromPublishing": true
+        }
+      }
+    }
+  },
+  "Grid": {
+    "Active": {
+      "$type": "boolean",
+      "$value": true,
+      "$extensions": {
+        "figma": {
+          "scopes": [
+            "ALL_SCOPES"
+          ],
+          "codeSyntax": {},
+          "hiddenFromPublishing": true
+        }
+      }
+    },
+    "Columns": {
+      "$type": "text",
+      "$value": "12",
+      "$extensions": {
+        "figma": {
+          "scopes": [],
+          "codeSyntax": {},
+          "hiddenFromPublishing": true
+        }
+      }
+    },
+    "Max column": {
+      "$type": "text",
+      "$value": "2XL",
+      "$extensions": {
+        "figma": {
+          "scopes": [],
+          "codeSyntax": {},
+          "hiddenFromPublishing": true
+        }
+      }
+    },
+    "Min gutter": {
+      "$type": "text",
+      "$value": "S",
+      "$extensions": {
+        "figma": {
+          "scopes": [],
+          "codeSyntax": {},
+          "hiddenFromPublishing": true
+        }
+      }
+    },
+    "Max gutter": {
+      "$type": "text",
+      "$value": "L",
+      "$extensions": {
+        "figma": {
+          "scopes": [],
+          "codeSyntax": {},
+          "hiddenFromPublishing": true
+        }
+      }
+    },
+    "Rounding": {
+      "$type": "text",
+      "$value": "Nearest",
+      "$extensions": {
+        "figma": {
+          "scopes": [],
+          "codeSyntax": {},
+          "hiddenFromPublishing": true
+        }
+      }
+    }
+  }
+}

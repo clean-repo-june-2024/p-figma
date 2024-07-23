@@ -1,0 +1,57 @@
+{
+  "name": "Utopia ext",
+  "collections": {
+    "Utopian size": {
+      "modes": {
+        "Mode 1": [
+          "Utopian size.Mode 1.tokens.json"
+        ]
+      }
+    },
+    "Space @min": {
+      "modes": {
+        "Mode 1": [
+          "Space @min.Mode 1.tokens.json"
+        ]
+      }
+    },
+    "Space @max": {
+      "modes": {
+        "Mode 1": [
+          "Space @max.Mode 1.tokens.json"
+        ]
+      }
+    },
+    "Fluid tokens": {
+      "modes": {
+        "Min": [
+          "Fluid tokens.Min.tokens.json"
+        ],
+        "Max": [
+          "Fluid tokens.Max.tokens.json"
+        ]
+      }
+    },
+    "Utopia": {
+      "modes": {
+        "Mode 1": [
+          "Utopia.Mode 1.tokens.json"
+        ]
+      }
+    },
+    "Space primitives": {
+      "modes": {
+        "Mode 1": [
+          "Space primitives.Mode 1.tokens.json"
+        ]
+      }
+    },
+    "Type primitives": {
+      "modes": {
+        "Mode 1": [
+          "Type primitives.Mode 1.tokens.json"
+        ]
+      }
+    }
+  }
+}

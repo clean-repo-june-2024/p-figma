@@ -1,0 +1,22 @@
+:root {
+  --font-size-@min-step-5: 39.8130989074707;
+  --font-size-@max-step-5: 73.24220275878906;
+  --font-size-@min-step-4: 33.1776008605957;
+  --font-size-@max-step-4: 58.59379959106445;
+  --font-size-@min-step-3: 27.648000717163086;
+  --font-size-@max-step-3: 46.875;
+  --font-size-@min-step-2: 23.040000915527344;
+  --font-size-@max-step-2: 37.5;
+  --font-size-@min-step-1: 19.200000762939453;
+  --font-size-@max-step-1: 30;
+  --font-size-@min-step-0: 16;
+  --font-size-@max-step-0: 24;
+  --font-size-@min-step--1: 13.33329963684082;
+  --font-size-@max-step--1: 19.200000762939453;
+  --font-size-@min-step--2: 11.111100196838379;
+  --font-size-@max-step--2: 15.359999656677246;
+  --font-family-body: Inter;
+  --font-weight-regular: Regular;
+  --font-family-heading: Inter;
+  --font-weight-bold: Bold;
+}
